@@ -207,8 +207,3 @@ npm test
 ## 📝 License
 
 MIT License
-
-## 👥 Contributors
-
-Your Name
-
